@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: Jack Thomas
+  description: Playbook for instalation of Python 2.7 on Centos
+  license: None 
+  min_ansible_version: 1.4
+  platforms:
+  - name: EL
+    versions:
+    - all
+  categories:
+  - configuration
+dependencies: []
+
+  

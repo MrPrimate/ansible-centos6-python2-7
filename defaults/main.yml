@@ -1,0 +1,5 @@
+---
+# defaults file for install
+
+HOME: /home/{{ ansible_ssh_user }}
+PY_VERSION: 2.7.6
